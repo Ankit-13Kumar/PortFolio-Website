@@ -118,7 +118,7 @@ html{
 /* 3rd code for home */
 .home{
     display: flex;
-    background: url(Images/banner.jpg) no-repeat center;
+    background: url(images/banner.jpg) no-repeat center;
     height: 100vh;
     color: rgb(245, 244, 234);
     min-height: 500px;
